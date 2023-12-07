@@ -1,0 +1,1301 @@
+[
+    {
+        "name": "Desktop",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+        "isMobile": false,
+        "hasTouch": false,
+        "throttling": 1,
+        "network": null,
+        "display": {
+            "width": 1920,
+            "height": 1080
+        },
+        "headers": {
+            "DEVICE-MEMORY": "8",
+            "DPR": "2",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Google Chrome\";v=\"113\", \"Chromium\";v=\"113\", \"Not-A.Brand\";v=\"24\"",
+            "SEC-CH-UA-ARCH": "arm",
+            "SEC-CH-UA-FULL-VERSION": "113.0.5672.126",
+            "SEC-CH-UA-MOBILE": "?0",
+            "SEC-CH-UA-MODEL": "",
+            "SEC-CH-UA-PLATFORM": "macOS",
+            "SEC-CH-UAPLATFORM-VERSION-": "13.3.1"
+        },
+        "brand": "Apple",
+        "model": "Mac Mini",
+        "version": "M1"
+    },
+    {
+        "name": "Samsung Galaxy A20e",
+        "randomness": 1164,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-A202F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5615.47 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 780
+        },
+        "headers": {
+            "DEVICE-MEMORY": "3",
+            "DPR": "2",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.47",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A202F",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "11.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A20e"
+    },
+    {
+        "name": "Apple iPhone 11",
+        "randomness": 990,
+        "userAgent": "Mozilla/5.0 (iPhone12,1; U; CPU iPhone OS 13_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/15E148 Safari/602.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 390,
+            "height": 844
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "11"
+    },
+    {
+        "name": "Huawei P30 Lite",
+        "randomness": 894,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; MAR-LX1B Build/HUAWEIMAR-L21B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.48 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 771
+        },
+        "headers": {
+            "DEVICE-MEMORY": "3",
+            "DPR": "3",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.48",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "HUAWEIMAR-L21B",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "10.0.0"
+        },
+        "brand": "Huawei",
+        "model": "P",
+        "version": "30 Lite"
+    },
+    {
+        "name": "Samsung Galaxy A50",
+        "randomness": 811,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-A202F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 412,
+            "height": 892
+        },
+        "headers": {
+            "DEVICE-MEMORY": "3",
+            "DPR": "2",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"113\", \"Google Chrome\";v=\"113\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "113.0.0.0",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A202F",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "11.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A50"
+    },
+    {
+        "name": "Huawei P Smart 2019",
+        "randomness": 773,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; POT-LX1 Build/HUAWEIPOT-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.57 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 780
+        },
+        "headers": {
+            "DEVICE-MEMORY": "3",
+            "DPR": "3",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"111\", \"Google Chrome\";v=\"111\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "111.0.5563.57",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "HUAWEIPOT-L21",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "10.0.0"
+        },
+        "brand": "Huawei",
+        "model": "P",
+        "version": "Smart 2019"
+    },
+    {
+        "name": "Samsung Galaxy A10",
+        "randomness": 727,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-A105FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 2,
+        "network": "Fast 3G",
+        "display": {
+            "width": 412,
+            "height": 869
+        },
+        "headers": {
+            "DEVICE-MEMORY": "2",
+            "DPR": "1,7475728155",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"113\", \"Google Chrome\";v=\"113\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "113.0.0.0",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A105FN",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "11.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A10"
+    },
+    {
+        "name": "Apple iPhone XR",
+        "randomness": 720,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 414,
+            "height": 896
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "XR"
+    },
+    {
+        "name": "Samsung Galaxy A13",
+        "randomness": 716,
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A135U Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.32 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 384,
+            "height": 857
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"113\", \"Google Chrome\";v=\"113\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "113.0.5672.32",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A135U",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "13.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A13"
+    },
+    {
+        "name": "Apple iPhone 12",
+        "randomness": 703,
+        "userAgent": "Mozilla/5.0 (iPhone13,2; U; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/15E148 Safari/602.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 390,
+            "height": 844
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "12"
+    },
+    {
+        "name": "Samsung Galaxy A21s",
+        "randomness": 695,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A217F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.47 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 384,
+            "height": 857
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["2", "3", "4", "6"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.47",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A217F",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A21s"
+    },
+    {
+        "name": "Apple iPhone 14 Pro",
+        "randomness": 677,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 390,
+            "height": 844
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "14 Pro"
+    },
+    {
+        "name": "Samsung Galaxy A40",
+        "randomness": 665,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-A405FN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 384,
+            "height": 857
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"111\", \"Google Chrome\";v=\"111\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "111.0.5563.58",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A405FN",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "11.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A40"
+    },
+    {
+        "name": "Samsung Galaxy A52s 5G",
+        "randomness": 664,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-A528B Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.101 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 412,
+            "height": 915
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["4", "6", "8"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.101",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A528B",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "11.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A52s 5G"
+    },
+    {
+        "name": "Apple iPhone SE (3rd)",
+        "randomness": 662,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 375,
+            "height": 667
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "SE (3rd)"
+    },
+    {
+        "name": "Samsung Galaxy A30s",
+        "randomness": 644,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-A307GN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 412,
+            "height": 892
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "114.0.0.0",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A307GN",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "11.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A30s"
+    },
+    {
+        "name": "Apple iPhone 13",
+        "randomness": 623,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 390,
+            "height": 844
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "13"
+    },
+    {
+        "name": "Samsung Galaxy A12",
+        "randomness": 616,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-S127DL Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.24 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 800
+        },
+        "headers": {
+            "DEVICE-MEMORY": "6",
+            "DPR": "2",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"113\", \"Google Chrome\";v=\"113\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "113.0.5672.24",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A307GN",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A12"
+    },
+    {
+        "name": "Samsung Galaxy A51",
+        "randomness": 615,
+        "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 412,
+            "height": 915
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["4", "6", "8"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"113\", \"Google Chrome\";v=\"113\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "113.0.0.0",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A515F",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "13.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A51"
+    },
+    {
+        "name": "Huawei P20 Lite",
+        "randomness": 605,
+        "userAgent": "Mozilla/5.0 (Linux; Android 9; ANE-LX1 Build/HUAWEIANE-L01; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.47 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 760
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "3",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.47",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "HUAWEIANE-L01",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "9.0.0"
+        },
+        "brand": "Huawei",
+        "model": "P",
+        "version": "20 Lite"
+    },
+    {
+        "name": "Xiaomi Redmi 9",
+        "randomness": 565,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; M2004J19C Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5720.3 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 393,
+            "height": 851
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "2.75",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "114.0.5720.3",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "M2004J19C",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12.0.0"
+        },
+        "brand": "Xiaomi",
+        "model": "Redmi",
+        "version": "9"
+    },
+    {
+        "name": "Apple iPhone 8 Plus",
+        "randomness": 552,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A5370a Safari/604.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 414,
+            "height": 896
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "8 Plus"
+    },
+    {
+        "name": "Xiaomi Redmi Note 7",
+        "randomness": 544,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5630.206 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 393,
+            "height": 851
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["3", "4", "6"],
+            "DPR": "2.75",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"113\", \"Google Chrome\";v=\"113\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "113.0.5630.206",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "Redmi Note 7",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "11.0.0"
+        },
+        "brand": "Xiaomi",
+        "model": "Redmi",
+        "version": "Note 7"
+    },
+    {
+        "name": "Apple iPhone X",
+        "randomness": 541,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/13.2b11866 Mobile/16A366 Safari/605.1.15",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 375,
+            "height": 812
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "X"
+    },
+    {
+        "name": "Xiaomi Redmi 9C",
+        "randomness": 541,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; M2006C3MG Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5720.3 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 800
+        },
+        "headers": {
+            "DEVICE-MEMORY": "2",
+            "DPR": "2.75",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "114.0.5720.3",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "M2006C3MG",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12.0.0"
+        },
+        "brand": "Xiaomi",
+        "model": "Redmi",
+        "version": "9C"
+    },
+    {
+        "name": "Samsung Galaxy A13",
+        "randomness": 616,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-S127DL Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.5672.24 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 384,
+            "height": 857
+        },
+        "headers": {
+            "DEVICE-MEMORY": "6",
+            "DPR": "2",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"113\", \"Google Chrome\";v=\"113\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "113.0.5672.24",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-A307GN",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "A13"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-S906N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.47 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 780
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["8", "12"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.47",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-S906N",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S22"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G996U Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.47 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 800
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["8", "12"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.47",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G996U",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "10.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S21"
+    },
+    {
+        "name": "Samsung Galaxy S20",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; SM-G980F Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.47 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 384,
+            "height": 854
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["8", "12"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.47",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G980F",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "10.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S20"
+    },
+    {
+        "name": "Samsung Galaxy S10",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 9; SM-G973U Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 760
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["8", "12"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"69\", \"Google Chrome\";v=\"69\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "69.0.3497",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G973U",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "9.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S10"
+    },
+    {
+        "name": "Samsung Galaxy S9",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 740
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["4", "6"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"62\", \"Google Chrome\";v=\"62\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "62.0.3202.84",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G960F",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "8.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S9"
+    },
+    {
+        "name": "Samsung Galaxy S8",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 740
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["4", "6"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"60\", \"Google Chrome\";v=\"60\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "60.0.3112.107",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G892A",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "7.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S8"
+    },
+    {
+        "name": "Samsung Galaxy S7",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G930VC Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 640
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"58\", \"Google Chrome\";v=\"58\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "58.0.3029.83",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G930VC",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "7.0.0"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S7"
+    },
+    {
+        "name": "Samsung Galaxy S7 Edge",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 640
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"55\", \"Google Chrome\";v=\"55\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "55.0.2883.91",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G935S",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "6.0.1"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S7 Edge"
+    },
+    {
+        "name": "Samsung Galaxy S6",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 640
+        },
+        "headers": {
+            "DEVICE-MEMORY": "3",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"52\", \"Google Chrome\";v=\"52\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "52.0.2743.98",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G920V",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "6.0.1"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S6"
+    },
+    {
+        "name": "Samsung Galaxy S6 Edge Plus",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 5.1.1; SM-G928X Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 360,
+            "height": 640
+        },
+        "headers": {
+            "DEVICE-MEMORY": "4",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"47\", \"Google Chrome\";v=\"47\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "47.0.2526.83",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-G928X",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "5.1.1"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy",
+        "version": "S6 Edge Plus"
+    },
+    {
+        "name": "Samsung Galaxy Tab S8 Ultra",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-X906C Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/80.0.3987.119 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "network": "Fast 3G",
+        "display": {
+            "width": 1280,
+            "height": 800
+        },
+        "headers": {
+            "DEVICE-MEMORY": ["8", "12", "16"],
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"80\", \"Google Chrome\";v=\"80\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "80.0.3987.119",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "SM-X906C",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12"
+        },
+        "brand": "Samsung",
+        "model": "Galaxy Tab",
+        "version": "S8 Ultra"
+    },
+    {
+        "name": "Samsung Galaxy Tab S3",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-T827R4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 1024,
+            "height": 768
+        },
+        "brand": "Samsung",
+        "model": "Galaxy Tab",
+        "version": "S3"
+    },
+    {
+        "name": "Samsung Galaxy Tab A",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T550 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 1280,
+            "height": 800
+        },
+        "brand": "Samsung",
+        "model": "Galaxy Tab",
+        "version": "A"
+    },
+    {
+        "name": "Google Pixel 6",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 12; Pixel 6 Build/SD1A.210817.023; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.47 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 412,
+            "height": 915
+        },
+        "headers": {
+            "DEVICE-MEMORY": "8",
+            "DOWNLINK": "1.6",
+            "DPR": "2.625",
+            "ECT": "4g",
+            "SEC-CH-PREFERS-COLOR-SCHEME": ["light", "dark"],
+            "SEC-CH-PREFERS-REDUCED-MOTION": "no-preference",
+            "SEC-CH-UA": "\"Chromium\";v=\"112\", \"Google Chrome\";v=\"112\", \"Not:A-Brand\";v=\"99\"",
+            "SEC-CH-UA-FULL-VERSION": "112.0.5615.47",
+            "SEC-CH-UA-MOBILE": "?1",
+            "SEC-CH-UA-MODEL": "Pixel 6",
+            "SEC-CH-UA-PLATFORM": "Android",
+            "SEC-CH-UAPLATFORM-VERSION-": "12.0.0"
+        },
+        "brand": "Google",
+        "model": "Pixel",
+        "version": "6"
+    },
+    {
+        "name": "Google Pixel 5",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 11; Pixel 5 Build/RQ3A.210805.001.A1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.159 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 393,
+            "height": 851
+        },
+        "brand": "Google",
+        "model": "Pixel",
+        "version": "5"
+    },
+    {
+        "name": "Google Pixel 4",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QD1A.190821.014.C2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 393,
+            "height": 830
+        },
+        "brand": "Google",
+        "model": "Pixel",
+        "version": "4"
+    },
+    {
+        "name": "Google Pixel 3",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 10; Google Pixel 4 Build/QD1A.190821.014.C2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 393,
+            "height": 786
+        },
+        "brand": "Google",
+        "model": "Pixel",
+        "version": "3"
+    },
+    {
+        "name": "Google Pixel 2",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 Build/OPD1.170811.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 411,
+            "height": 731
+        },
+        "brand": "Google",
+        "model": "Pixel",
+        "version": "2"
+    },
+    {
+        "name": "Google Pixel",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.1; Google Pixel Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0.2840.85 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 411,
+            "height": 731
+        },
+        "brand": "Google",
+        "model": "Pixel",
+        "version": "1"
+    },
+    {
+        "name": "Google Pixel C",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.0; Pixel C Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.98 Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 1280,
+            "height": 900
+        },
+        "brand": "Google",
+        "model": "Pixel",
+        "version": "C"
+    },
+    {
+        "name": "Google Nexus 6P",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.83 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 411,
+            "height": 731
+        },
+        "brand": "Google",
+        "model": "Nexus",
+        "version": "6P"
+    },
+    {
+        "name": "Sony Xperia XZ",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.1.1; G8231 Build/41.2.A.0.219; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 360,
+            "height": 640
+        },
+        "brand": "Sony",
+        "model": "Xperia",
+        "version": "XZ"
+    },
+    {
+        "name": "Sony Xperia Z5",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; E6653 Build/32.2.A.0.253) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 360,
+            "height": 640
+        },
+        "brand": "Sony",
+        "model": "Xperia",
+        "version": "X5"
+    },
+    {
+        "name": "Sony Xperia Z4 Tablet",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; SGP771 Build/32.2.A.0.253; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/52.0.2743.98 Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 1280,
+            "height": 800
+        },
+        "brand": "Sony",
+        "model": "Xperia",
+        "version": "Z4 Tablet"
+    },
+    {
+        "name": "Amazon Kindle Fire HDX 7",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 4.4.3; KFTHWI Build/KTU84M) AppleWebKit/537.36 (KHTML, like Gecko) Silk/47.1.79 like Chrome/47.0.2526.80 Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 1280,
+            "height": 800
+        },
+        "brand": "Amazon",
+        "model": "Kindle Fire",
+        "version": "HDX 7"
+    },
+    {
+        "name": "LG G5",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; LG-H831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 360,
+            "height": 640
+        },
+        "brand": "LG",
+        "model": "G",
+        "version": "5"
+    },
+    {
+        "name": "Nvidia Shield Tablet K1",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SHIELD Tablet K1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 1280,
+            "height": 800
+        },
+        "brand": "Nvidia",
+        "model": "Shield",
+        "version": "Tablet K1"
+    },
+    {
+        "name": "Apple iPhone 13 Pro Max",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (iPhone14,3; U; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19A346 Safari/602.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 428,
+            "height": 926
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "13 Pro Max"
+    },
+    {
+        "name": "Apple iPhone 8",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 375,
+            "height": 667
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "8"
+    },
+    {
+        "name": "Apple iPhone 7",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (iPhone9,3; U; CPU iPhone OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A403 Safari/602.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 375,
+            "height": 667
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "7"
+    },
+    {
+        "name": "Apple iPhone 7 Plus",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (iPhone9,4; U; CPU iPhone OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A403 Safari/602.1",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 414,
+            "height": 736
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "7 Plus"
+    },
+    {
+        "name": "Apple iPhone 6",
+        "randomness": 1,
+        "userAgent": "Mozilla/5.0 (Apple-iPhone7C2/1202.466; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1A543 Safari/419.3",
+        "isMobile": true,
+        "hasTouch": true,
+        "throttling": 1,
+        "display": {
+            "width": 375,
+            "height": 667
+        },
+        "brand": "Apple",
+        "model": "iPhone",
+        "version": "6"
+    }
+]
