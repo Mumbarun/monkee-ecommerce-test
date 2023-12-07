@@ -1,6 +1,6 @@
 // const puppeteer = require('puppeteer')
 
-const { start, end, deleteCookies, emulate, setHeader, authenticate, randomDevice, goTo, clickTo, fillInput, scroll, mouseMove, waitForSelector, waitForNavigation } = require('./controller/browser')
+const { start, newPage, end, deleteCookies, emulate, setHeader, authenticate, randomDevice, goTo, clickTo, fillInput, scroll, mouseMove, waitForSelector, waitForNavigation } = require('./controller/browser')
 const { getRandom, sleep } = require('./controller/functions')
 
 const userCredentials = {
@@ -15,22 +15,22 @@ describe('Avviamento App', () => {
         const { browser, page, device } = await start()
 
         this.browser = browser
-        this.page = page
+        this.pages.main = page
         this.device = device
     })
-test
+
     // afterAll(async () => {
-    //     await end(this.page, this.browser)
+    //     await end(this.pages, this.browser)
     // })
 
     test("Login come amministratore", async () => {
         // await this.page.goto('http://localhost:8081')
-        await goTo(this.page, 'http://localhost:8081')
-        await fillInput(this.page, 'input#input-30', userCredentials.name, false)
+        await goTo(this.pages.main, 'http://localhost:8081')
+        await fillInput(this.pages.main, 'input#input-30', userCredentials.name, false)
         await sleep(250)
-        await fillInput(this.page, 'input#input-33', userCredentials.pass, false)
+        await fillInput(this.pages.main, 'input#input-33', userCredentials.pass, false)
 
-        await clickTo(this.page, 'button.v-btn', false, true)
+        await clickTo(this.pages.main, 'button.v-btn', false, true)
     }, 30000)
 
     // test("Crea un'altra pagina", async () => {
@@ -38,6 +38,13 @@ test
 
     //     await goTo(pag, 'http://localhost:8081')
     // })
+})
+
+describe('Prodotti', () => {
+    test('Caricamento pagina', async () => {
+        const { page } = await newPage(this.browser)
+        this.pages.prod = page
+    })
 })
 
 // describe('Signin test', () => {

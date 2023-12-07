@@ -40,9 +40,7 @@ async function start (lang, desktop = true) {
 
     const browser = await puppeteer.launch(props)
 
-    const page = await browser.newPage()
-
-    const device = await emulate(page, desktop)
+    const { page, device } = await newPage(browser, desktop)
 
     // Navigator
     // await page.evaluateOnNewDocument(() => {
@@ -73,7 +71,13 @@ async function newPage (browser, desktop = true) {
 }
 
 async function end (page, browser) {
-    await deleteCookies(page)
+    if (Array.isArray(page)) {
+        for (let i = 0; i < page.length; i++) {
+            const pag = page[i]
+            await deleteCookies(pag)
+        }
+    }
+    else await deleteCookies(page)
 
     await browser.close()
 
@@ -162,7 +166,9 @@ async function authenticate (page, user, pass, server, log = false) {
 
 function randomDevice (region, desktop) {
     const getDevice = () => {
-        if (desktop !== undefined || desktop !== null) {
+        if (typeof desktop) {
+            return devices.find(dev => dev.name === desktop.name)
+        } else if (typeof desktop === 'boolean') {
             return devices.find(dev => dev.isMobile === !desktop)
         } else {
             const randomness = Array.from(devices, dev => dev.randomness)
@@ -451,4 +457,4 @@ async function waitForNavigation (page, waitUntil = 'networkidle2', timeout) {
     }
 }
 
-module.exports = { start, end, deleteCookies, emulate, setHeader, authenticate, randomDevice, goTo, clickTo, fillInput, scroll, mouseMove, waitForSelector, waitForNavigation }
+module.exports = { start, newPage, end, deleteCookies, emulate, setHeader, authenticate, randomDevice, goTo, clickTo, fillInput, scroll, mouseMove, waitForSelector, waitForNavigation }
